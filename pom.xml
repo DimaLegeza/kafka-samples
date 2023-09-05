@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <kafka-clients.version>2.3.0</kafka-clients.version>
+        <kafka-clients.version>2.6.3</kafka-clients.version>
     </properties>
 
     <dependencies>
